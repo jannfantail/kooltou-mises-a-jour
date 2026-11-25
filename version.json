@@ -1,22 +1,22 @@
 {
-    "version":  "0.6.3",
-    "build":  9,
-    "notes":  "Mise à jour sur PC plus fiable : le remplacement ne dépend plus de Kooltou, et Kooltou est toujours relancé à la fin.",
+    "version":  "0.6.4",
+    "build":  10,
+    "notes":  "Téléphone : vrai écran Contacts. La liste tient sur tout l\u0027écran, toucher un contact ouvre sa fiche, toucher un numéro ouvre le clavier d\u0027appel.\nLes outils du carnet (doublons, ménage, tri…) sont lisibles sur un petit écran.",
     "files":  {
                   "android-arm":  {
-                                      "file":  "kooltou-0.6.3-arm.apk",
-                                      "sha256":  "a74023c2e664c9fc53bf20b423fe34b0919c64c88d7277a128b4106f62a29cd5",
-                                      "size":  17566973
+                                      "file":  "kooltou-0.6.4-arm.apk",
+                                      "sha256":  "95786b8f14fc92bc3b7fb8be0caacef133269fe3a5757a9861927b74f5e40b62",
+                                      "size":  17569749
                                   },
                   "android-arm64":  {
-                                        "file":  "kooltou-0.6.3-arm64.apk",
-                                        "sha256":  "a6a5806e308c6def9578b3d8a6a645c0221154024b7c0b167c0245707af65dfa",
-                                        "size":  18131389
+                                        "file":  "kooltou-0.6.4-arm64.apk",
+                                        "sha256":  "911ab89ca7e3384c247caf66f2f926a8ee2992e6587bdb369818d92aa960b3d7",
+                                        "size":  18136145
                                     },
                   "windows":  {
-                                  "file":  "kooltou-0.6.3-windows.zip",
-                                  "sha256":  "89264d384643d82c1e42beb404067a089546c797ae4bfa7ad77a5e81974a8bc3",
-                                  "size":  22342406
+                                  "file":  "kooltou-0.6.4-windows.zip",
+                                  "sha256":  "921029f1bb32ff596a650cd706812338f24ae78814567a7d8eb97a0eed4886dd",
+                                  "size":  22345744
                               }
               }
 }
