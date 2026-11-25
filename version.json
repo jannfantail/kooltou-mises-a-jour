@@ -1,0 +1,22 @@
+{
+    "version":  "0.6.0",
+    "build":  6,
+    "notes":  "Kooltou se met à jour tout seul.\nContacts : groupes, tri par l\u0027IA, doublons, ménage, annuaire, numéros à la norme, écriture vers Google.\nImpression des PDF, liens ouverts directement, cases à cocher dans la liste des messages.",
+    "files":  {
+                  "android-arm":  {
+                                      "file":  "kooltou-0.6.0-arm.apk",
+                                      "sha256":  "32ac40991b0f8d9d75c4c290742a799850a57a2ebfeaaeef8def29ebafabef5a",
+                                      "size":  17561593
+                                  },
+                  "android-arm64":  {
+                                        "file":  "kooltou-0.6.0-arm64.apk",
+                                        "sha256":  "56b97f1c60f2c5f558a6d970dbe7fa476699cc00ea84067494e4dcc70ef63709",
+                                        "size":  18121301
+                                    },
+                  "windows":  {
+                                  "file":  "kooltou-0.6.0-windows.zip",
+                                  "sha256":  "94355652cba633235246ea1b1d54241e6d907d3232587f36863621b896c90daa",
+                                  "size":  22334945
+                              }
+              }
+}
