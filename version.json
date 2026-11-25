@@ -1,22 +1,22 @@
 {
-    "version":  "0.6.6",
-    "build":  12,
-    "notes":  "Calendrier sur téléphone : vues Semaine et Mois en plus d\u0027Agenda et Jour.\nGlisse le doigt vers la gauche ou la droite pour passer au jour, à la semaine ou au mois d\u0027après ou d\u0027avant.",
+    "version":  "0.6.7",
+    "build":  13,
+    "notes":  "Renommer et supprimer un dossier : clic droit sur le dossier (appui long sur le téléphone).\nLes messages d\u0027un dossier supprimé vont dans les éléments supprimés. Les dossiers standards sont protégés.",
     "files":  {
                   "android-arm":  {
-                                      "file":  "kooltou-0.6.6-arm.apk",
-                                      "sha256":  "03711203acd01bc4e2d7ae0be8297f5dacf587d518630a6b72058655275b45a6",
-                                      "size":  17578901
+                                      "file":  "kooltou-0.6.7-arm.apk",
+                                      "sha256":  "ea0d68cb0444ae9af4f485552ebf49d73c68708281c9093e9a7c156866176691",
+                                      "size":  17591017
                                   },
                   "android-arm64":  {
-                                        "file":  "kooltou-0.6.6-arm64.apk",
-                                        "sha256":  "97a3d729507f11fe348329eeaf471e166f8fdc76a642033341de77eb222454cf",
-                                        "size":  18144773
+                                        "file":  "kooltou-0.6.7-arm64.apk",
+                                        "sha256":  "1111b9e9ab2f8419eae8aeb048e186b33a6cc313d20d54e3b14c7373d35f3649",
+                                        "size":  18152425
                                     },
                   "windows":  {
-                                  "file":  "kooltou-0.6.6-windows.zip",
-                                  "sha256":  "fe539d428a1c73868cac42051b8db917704d86b32070f6ec33bd7ab7ab1bb361",
-                                  "size":  22353986
+                                  "file":  "kooltou-0.6.7-windows.zip",
+                                  "sha256":  "e43fba85f3e1e913c454e05361f9eece27427af2c1c381a9cc977f150c38d297",
+                                  "size":  22360741
                               }
               }
 }
