@@ -1,22 +1,22 @@
 {
-    "version":  "0.6.8",
-    "build":  14,
-    "notes":  "Démarrage avec Windows : Paramètres \u003e Général \u003e « Lancer Kooltou au démarrage de Windows ».\nKooltou démarre alors en veille, son icône près de l\u0027horloge, et relève le courrier sans fenêtre.",
+    "version":  "0.6.9",
+    "build":  15,
+    "notes":  "Contacts : « Outils du carnet \u003e Annuler… » défait une fusion de doublons ou un ménage.\nLes fiches retirées reviennent avec leurs adresses et leurs groupes (10 dernières actions).",
     "files":  {
                   "android-arm":  {
-                                      "file":  "kooltou-0.6.8-arm.apk",
-                                      "sha256":  "00e43a2a53e14d871e6fe8060416277a1b4652c80b3120ae1fa7b703a18b6ce0",
-                                      "size":  17589801
+                                      "file":  "kooltou-0.6.9-arm.apk",
+                                      "sha256":  "39ebe4664e43cce5006707eecfa7aa7d99336c1d9aced0dc427b91254d0bf00d",
+                                      "size":  17615073
                                   },
                   "android-arm64":  {
-                                        "file":  "kooltou-0.6.8-arm64.apk",
-                                        "sha256":  "7e7001aecb622a2ec7e2aaeaeaad1084e2f2978a719a47faecf6f3f63783775b",
-                                        "size":  18152097
+                                        "file":  "kooltou-0.6.9-arm64.apk",
+                                        "sha256":  "a162e91f2b55dc27c2c4d51da47ff4cb3db5c3446b6467fc386cbcdb8d9c6b12",
+                                        "size":  18171181
                                     },
                   "windows":  {
-                                  "file":  "kooltou-0.6.8-windows.zip",
-                                  "sha256":  "92e66cf7c998bdd7a307da43cbbbbf80dbb50f9df278a6110cffed4838aefdc8",
-                                  "size":  22370275
+                                  "file":  "kooltou-0.6.9-windows.zip",
+                                  "sha256":  "fc090a0885761e4d6b5641205d5fd0a1c7932ee6155cc6c9420015942d0559fc",
+                                  "size":  22387737
                               }
               }
 }
