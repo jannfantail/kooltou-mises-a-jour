@@ -1,12 +1,12 @@
 # Kooltou - mises a jour
 
-Version en cours : **0.6.16**
+Version en cours : **0.6.17**
 
 ## Premiere installation
 
-- Telephone ou tablette Android : [kooltou-0.6.16-arm64.apk](https://github.com/jannfantail/kooltou-mises-a-jour/raw/main/kooltou-0.6.16-arm64.apk)
-- Ancien appareil Android (si le premier est refuse) : [kooltou-0.6.16-arm.apk](https://github.com/jannfantail/kooltou-mises-a-jour/raw/main/kooltou-0.6.16-arm.apk)
-- Windows : [kooltou-0.6.16-windows.zip](https://github.com/jannfantail/kooltou-mises-a-jour/raw/main/kooltou-0.6.16-windows.zip)
+- Telephone ou tablette Android : [kooltou-0.6.17-arm64.apk](https://github.com/jannfantail/kooltou-mises-a-jour/raw/main/kooltou-0.6.17-arm64.apk)
+- Ancien appareil Android (si le premier est refuse) : [kooltou-0.6.17-arm.apk](https://github.com/jannfantail/kooltou-mises-a-jour/raw/main/kooltou-0.6.17-arm.apk)
+- Windows : [kooltou-0.6.17-windows.zip](https://github.com/jannfantail/kooltou-mises-a-jour/raw/main/kooltou-0.6.17-windows.zip)
 
 Ensuite, Kooltou se met a jour tout seul.
 

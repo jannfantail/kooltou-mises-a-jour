@@ -1,22 +1,22 @@
 {
-    "version":  "0.6.16",
-    "build":  22,
-    "notes":  "Biplace : « Lire le message (IA) » remplit le jour, l\u0027heure, le nombre de personnes, la formule et les notes d\u0027après le message du client.\nRien n\u0027est inscrit sans ton clic.",
+    "version":  "0.6.17",
+    "build":  23,
+    "notes":  "Une flèche montre les messages auxquels tu as répondu, dans la liste et dans le message.\nBiplace : choisir un jour lointain affiche le planning autour de ce jour (deux mois à la fois).",
     "files":  {
                   "android-arm":  {
-                                      "file":  "kooltou-0.6.16-arm.apk",
-                                      "sha256":  "a32dd76bf16f758cdcf995d6e26c41f319c7f684b1d14acb3b0d98bc9045a35a",
-                                      "size":  17668041
+                                      "file":  "kooltou-0.6.17-arm.apk",
+                                      "sha256":  "91bd518ee7484732a09de7e7b30e40102c83098a1c105aa291c7f36074bf5791",
+                                      "size":  17676025
                                   },
                   "android-arm64":  {
-                                        "file":  "kooltou-0.6.16-arm64.apk",
-                                        "sha256":  "0fc7d700e263d6bf5e1d1938e25429d91cfee3d450b1914adfc2845655d00e3c",
-                                        "size":  18225689
+                                        "file":  "kooltou-0.6.17-arm64.apk",
+                                        "sha256":  "3ab9ca8d413b0897d258113b36152d8f471c17fb38c40e329d3c02d0f8bd0198",
+                                        "size":  18230457
                                     },
                   "windows":  {
-                                  "file":  "kooltou-0.6.16-windows.zip",
-                                  "sha256":  "1f44f3b54dd8f81236f476cbe12b3094eb486590b2136f4025f7790db25192d0",
-                                  "size":  22438860
+                                  "file":  "kooltou-0.6.17-windows.zip",
+                                  "sha256":  "1923c83fb9bf7072f19eb91fb54d26d658907f0fbb917e021aa34040b723cc67",
+                                  "size":  22445799
                               }
               }
 }
