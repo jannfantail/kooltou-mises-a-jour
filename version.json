@@ -1,22 +1,22 @@
 {
-    "version":  "0.6.12",
-    "build":  18,
-    "notes":  "Compléter depuis un fichier : les catégories du fichier (Élèves, Pilotes, Staff) deviennent des groupes de contacts.\nTu choisis lesquelles ; annulable par « Annuler… ».",
+    "version":  "0.6.13",
+    "build":  19,
+    "notes":  "Bouton « Biplace » sur un message : voir le planning biplace de Gestion École et y inscrire le client.\nÀ relier d\u0027abord dans Paramètres \u003e Comptes \u003e Planning biplace. Aucun message n\u0027est envoyé au client.",
     "files":  {
                   "android-arm":  {
-                                      "file":  "kooltou-0.6.12-arm.apk",
-                                      "sha256":  "79cb881d691b3619542f7bc3d6edee58bd28306a05125e0359f91ae242232afc",
-                                      "size":  17638241
+                                      "file":  "kooltou-0.6.13-arm.apk",
+                                      "sha256":  "89512e651af69d045c7e47af21930eb47cd253c082fe9c0fc3acc2728764bce9",
+                                      "size":  17666069
                                   },
                   "android-arm64":  {
-                                        "file":  "kooltou-0.6.12-arm64.apk",
-                                        "sha256":  "96177bbc66c6c0181352bd80c7cb64869c93d4a57c3eaedd8ea2c3485d630a78",
-                                        "size":  18194093
+                                        "file":  "kooltou-0.6.13-arm64.apk",
+                                        "sha256":  "a84fea20cd9f4b60b714db2e40c2dd05dfa2cc27b9023ea82e946bda5b248bed",
+                                        "size":  18218765
                                     },
                   "windows":  {
-                                  "file":  "kooltou-0.6.12-windows.zip",
-                                  "sha256":  "d4e4a52940193b29c37a6957ce3bbe85c057e1258190155ae19e1ee52bcb8180",
-                                  "size":  22408723
+                                  "file":  "kooltou-0.6.13-windows.zip",
+                                  "sha256":  "ae4a6254684a5bf7978f4129713496c12664f9b03f2d6b6e9fbdb1f9b01ef491",
+                                  "size":  22436357
                               }
               }
 }
