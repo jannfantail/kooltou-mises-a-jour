@@ -1,22 +1,22 @@
 {
-    "version":  "0.6.11",
-    "build":  17,
-    "notes":  "Doublons : une fiche d\u0027un autre nom, rapprochée seulement par son numéro, n\u0027est plus fusionnée d\u0027office (une case par fiche).\n« Après fusion » montre aussi l\u0027adresse postale et la société.",
+    "version":  "0.6.12",
+    "build":  18,
+    "notes":  "Compléter depuis un fichier : les catégories du fichier (Élèves, Pilotes, Staff) deviennent des groupes de contacts.\nTu choisis lesquelles ; annulable par « Annuler… ».",
     "files":  {
                   "android-arm":  {
-                                      "file":  "kooltou-0.6.11-arm.apk",
-                                      "sha256":  "5c8bf65124cf586b4bf1a4d9214f80454d51662fd5a51ed6d3376f23df33b05e",
-                                      "size":  17631837
+                                      "file":  "kooltou-0.6.12-arm.apk",
+                                      "sha256":  "79cb881d691b3619542f7bc3d6edee58bd28306a05125e0359f91ae242232afc",
+                                      "size":  17638241
                                   },
                   "android-arm64":  {
-                                        "file":  "kooltou-0.6.11-arm64.apk",
-                                        "sha256":  "77c3e9b0e382e7781d76ee95884e4f593b13b07455bf959b155e2053b3904b73",
-                                        "size":  18187805
+                                        "file":  "kooltou-0.6.12-arm64.apk",
+                                        "sha256":  "96177bbc66c6c0181352bd80c7cb64869c93d4a57c3eaedd8ea2c3485d630a78",
+                                        "size":  18194093
                                     },
                   "windows":  {
-                                  "file":  "kooltou-0.6.11-windows.zip",
-                                  "sha256":  "85c15a809f6693dc2acbc550d2af3c9cc1b29b1c79ccef2a14d8d403ea7f80c6",
-                                  "size":  22401799
+                                  "file":  "kooltou-0.6.12-windows.zip",
+                                  "sha256":  "d4e4a52940193b29c37a6957ce3bbe85c057e1258190155ae19e1ee52bcb8180",
+                                  "size":  22408723
                               }
               }
 }
