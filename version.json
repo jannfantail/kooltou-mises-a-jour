@@ -1,22 +1,22 @@
 {
-    "version":  "0.6.13",
-    "build":  19,
-    "notes":  "Bouton « Biplace » sur un message : voir le planning biplace de Gestion École et y inscrire le client.\nÀ relier d\u0027abord dans Paramètres \u003e Comptes \u003e Planning biplace. Aucun message n\u0027est envoyé au client.",
+    "version":  "0.6.14",
+    "build":  20,
+    "notes":  "Kooltou relève le courrier dès qu\u0027il revient à l\u0027écran : un message supprimé ou lu sur un autre appareil disparaît tout de suite.",
     "files":  {
                   "android-arm":  {
-                                      "file":  "kooltou-0.6.13-arm.apk",
-                                      "sha256":  "89512e651af69d045c7e47af21930eb47cd253c082fe9c0fc3acc2728764bce9",
-                                      "size":  17666069
+                                      "file":  "kooltou-0.6.14-arm.apk",
+                                      "sha256":  "2d6a4d79812925a525648e54a2d547363e73292ac2cf701aeefb093cdeb8ee06",
+                                      "size":  17663465
                                   },
                   "android-arm64":  {
-                                        "file":  "kooltou-0.6.13-arm64.apk",
-                                        "sha256":  "a84fea20cd9f4b60b714db2e40c2dd05dfa2cc27b9023ea82e946bda5b248bed",
-                                        "size":  18218765
+                                        "file":  "kooltou-0.6.14-arm64.apk",
+                                        "sha256":  "e2cc4c9f1002bf0387484fce63ab7a5c829d4e8dcdaa473b78ff03c7dac9d2b2",
+                                        "size":  18218025
                                     },
                   "windows":  {
-                                  "file":  "kooltou-0.6.13-windows.zip",
-                                  "sha256":  "ae4a6254684a5bf7978f4129713496c12664f9b03f2d6b6e9fbdb1f9b01ef491",
-                                  "size":  22436357
+                                  "file":  "kooltou-0.6.14-windows.zip",
+                                  "sha256":  "cabfa92768392f388243a5afae85dee327557fe664d4b4fa3a43d17381ee0077",
+                                  "size":  22434487
                               }
               }
 }
