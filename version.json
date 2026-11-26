@@ -1,22 +1,22 @@
 {
-    "version":  "0.6.10",
-    "build":  16,
-    "notes":  "Contacts : « Outils du carnet \u003e Compléter depuis un fichier… » ajoute aux fiches ce qui leur manque d\u0027après un fichier .vcf.\nRien n\u0027est remplacé, tout se coche avant d\u0027être écrit, et « Annuler… » défait l\u0027opération.",
+    "version":  "0.6.11",
+    "build":  17,
+    "notes":  "Doublons : une fiche d\u0027un autre nom, rapprochée seulement par son numéro, n\u0027est plus fusionnée d\u0027office (une case par fiche).\n« Après fusion » montre aussi l\u0027adresse postale et la société.",
     "files":  {
                   "android-arm":  {
-                                      "file":  "kooltou-0.6.10-arm.apk",
-                                      "sha256":  "6f59d3d8ef76ec318092e3d0d5dd9d671402fa2c0a6aec897546d3af4acea683",
-                                      "size":  17628749
+                                      "file":  "kooltou-0.6.11-arm.apk",
+                                      "sha256":  "5c8bf65124cf586b4bf1a4d9214f80454d51662fd5a51ed6d3376f23df33b05e",
+                                      "size":  17631837
                                   },
                   "android-arm64":  {
-                                        "file":  "kooltou-0.6.10-arm64.apk",
-                                        "sha256":  "716115aedbb42430756a1ff5baf6327fecaa7c200941756bb396906030c16c63",
-                                        "size":  18185201
+                                        "file":  "kooltou-0.6.11-arm64.apk",
+                                        "sha256":  "77c3e9b0e382e7781d76ee95884e4f593b13b07455bf959b155e2053b3904b73",
+                                        "size":  18187805
                                     },
                   "windows":  {
-                                  "file":  "kooltou-0.6.10-windows.zip",
-                                  "sha256":  "5de63bab509d7fa634cec9530d4e1a5b799da9f5bf4636ebc1befc7b00d8bdb2",
-                                  "size":  22401638
+                                  "file":  "kooltou-0.6.11-windows.zip",
+                                  "sha256":  "85c15a809f6693dc2acbc550d2af3c9cc1b29b1c79ccef2a14d8d403ea7f80c6",
+                                  "size":  22401799
                               }
               }
 }
