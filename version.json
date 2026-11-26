@@ -1,22 +1,22 @@
 {
-    "version":  "0.6.14",
-    "build":  20,
-    "notes":  "Kooltou relève le courrier dès qu\u0027il revient à l\u0027écran : un message supprimé ou lu sur un autre appareil disparaît tout de suite.",
+    "version":  "0.6.15",
+    "build":  21,
+    "notes":  "Gmail en IMAP : « Tous les messages » sert d\u0027archive, « Suivis » et « Important » ne sont plus téléchargés en double.\nPour voir le même courrier Gmail sur tous les appareils, ajoute le compte en IMAP (voir avec Claude).",
     "files":  {
                   "android-arm":  {
-                                      "file":  "kooltou-0.6.14-arm.apk",
-                                      "sha256":  "2d6a4d79812925a525648e54a2d547363e73292ac2cf701aeefb093cdeb8ee06",
-                                      "size":  17663465
+                                      "file":  "kooltou-0.6.15-arm.apk",
+                                      "sha256":  "bb16b3d2d19f96036aface65724850c7a43c7abcb106fb615d5795695f5f7cf3",
+                                      "size":  17664873
                                   },
                   "android-arm64":  {
-                                        "file":  "kooltou-0.6.14-arm64.apk",
-                                        "sha256":  "e2cc4c9f1002bf0387484fce63ab7a5c829d4e8dcdaa473b78ff03c7dac9d2b2",
-                                        "size":  18218025
+                                        "file":  "kooltou-0.6.15-arm64.apk",
+                                        "sha256":  "267a732e59c9d768c6d0b721274867dbfa56e2a2e7869e317b1b944ddaab00e0",
+                                        "size":  18217657
                                     },
                   "windows":  {
-                                  "file":  "kooltou-0.6.14-windows.zip",
-                                  "sha256":  "cabfa92768392f388243a5afae85dee327557fe664d4b4fa3a43d17381ee0077",
-                                  "size":  22434487
+                                  "file":  "kooltou-0.6.15-windows.zip",
+                                  "sha256":  "ffc6618e56c5fb78e655f90812b382cd00389bd6c3cc5a201c82d0073b59c9e1",
+                                  "size":  22434091
                               }
               }
 }
